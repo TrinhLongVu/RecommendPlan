@@ -1,0 +1,22 @@
+SGN,Hồ Chí Minh,Sân bay Tân Sơn Nhất
+HAN,Hà Nội,Sân bay Nội Bài
+DAD,Đà Nẵng,Sân bay Đà Nẵng
+PQC,Phú Quốc,Sân bay Phú Quốc
+CXR,Nha Trang,Sân bay Cam Ranh
+BMV,Buôn Ma Thuột,Sân bay Buôn Ma Thuột
+CAH,Cà Mau,Sân bay Cà Mau
+VCA,Cần Thơ,Sân bay Cần Thơ
+VCS,Côn Đảo,Sân bay Côn Đảo
+DLI,Đà Lạt,Sân bay Liên Khương
+DIN,Điện Biên,Sân bay Điện Biên Phủ
+VDH,Đồng Hới,Sân bay Đồng Hới
+HPH,Hải Phòng,Sân bay Cát Bi
+HUI,Huế,Sân bay Phú Bài
+PXU,Pleiku,Sân bay Pleiku
+UIH,Quy Nhơn,Sân bay Phù Cát
+VKG,Rạch Giá,Sân bay Rạch Giá
+THD,Thanh Hóa,Sân bay Thọ Xuân
+TBB,Tuy Hòa,Sân bay Tuy Hòa
+VDO,Quảng Ninh,Sân bay Vân Đồn
+VII,Vinh,Sân bay Vinh
+VCL,Quảng Nam,Sân bay Chu Lai

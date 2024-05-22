@@ -1,0 +1,59 @@
+hồ+chí+minh,Hồ Chí Minh
+hà+nội,Hà Nội
+an+giang,An Giang
+bà+rịa+vũng+tàu,Bà Rịa - Vũng Tàu
+bạc+liêu,Bạc Liêu
+bắc+kạn,Bắc Kạn 
+bắc+ninh,Bắc Ninh
+bến+tre,Bến Tre
+bình+dương,Bình Dương
+bình+định,Bình Định
+bình+phước,Bình Phước
+bình+thuận,Bình Thuận
+buôn+ma+thuột,Buôn Ma Thuột
+cà+mau,Cà Mau
+cần+thơ,Cần Thơ
+côn+đảo,Côn Đảo
+đà+lạt,Đà Lạt
+đà+nẵng,Đà Nẵng
+đắk+lắk,Đắk Lắk
+đắk+nông,Đắk Nông
+đồng+nai,Đồng Nai 
+đồng+tháp,Đồng Tháp
+điện+biên+phủ,Điện Biên Phủ
+hà+giang,Hà Giang
+hạ+long,Hạ Long
+hà+nam,Hà Nam
+hà+tiên,Hà Tiên
+hải+phòng,Hải Phòng
+huế,Huế
+hội+an,Hội An
+kiên+giang,Kiên Giang
+kon+tum,Kon Tum
+lạng+sơn,Lạng Sơn
+long+an,Long An
+nam+định,Nam Định
+nghệ+an,Nghệ An
+nha+trang,Nha Trang
+ninh+bình,Ninh Bình
+ninh+thuận,Ninh Thuận
+phan+thiết,Phan Thiết
+phú+quốc,Phú Quốc
+phú+thọ,Phú Thọ
+phú+yên,Phú Yên
+pleiku,Pleiku
+quảng+bình,Quảng Bình
+quảng+ninh,Quảng Ninh
+quảng+trị,Quảng Trị
+quy+nhơn,Quy Nhơn
+sơn+la,Sơn La
+sapa,Sapa
+tây+ninh,Tây Ninh
+thái+bình,Thái Bình
+thanh+hóa,Thanh Hóa
+tiền+giang,Tiền Giang
+trà+vinh,Trà Vinh
+tuyên+quang,Tuyên Quang
+vĩnh+long,Vĩnh Long
+vĩnh+phúc,Vĩnh Phúc
+yên+bái,Yên Bái

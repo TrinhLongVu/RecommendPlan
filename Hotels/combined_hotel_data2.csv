@@ -1,0 +1,511 @@
+Unnamed: 0,Name,Price,Rating,Benefits,Location,HotelID
+0,Cozrum Homes - Sonata Residence,453197.0,7.6,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,1
+1,Victory Hotel Saigon,764878.0,7.7,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",Đà Nẵng,2
+2,Happy Life Grand Hotel & Sky Bar,1090245.0,8.4,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,3
+3,Cityhouse - Ariosa,1068847.0,8.9,"Bữa sáng, Nước uống chào đón, Trả phòng muộn",Đà Nẵng,4
+4,Cochin Zen Hotel,915091.0,8.6,"Bữa sáng, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,5
+5,Akoya Saigon Central Hotel,943423.0,8.9,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,6
+6,Khach san Muong Thanh Luxury Saigon Hotel,1690148.0,8.6,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,7
+7,Nesta Hotel Saigon,1412382.0,8.3,"Bữa sáng, Nước uống chào đón, Nhận phòng nhanh",Đà Nẵng,8
+8,Ramana Saigon Hotel,1023154.0,8.0,"Bữa sáng, Wifi miễn phí",Đà Nẵng,9
+9,Golden Star Hotel - 60 Le Thanh Ton,604529.0,7.1,"Nước uống chào đón, Bãi đậu xe, Nhận phòng nhanh",Đà Nẵng,10
+10,Bong Sen Hotel Saigon,860488.0,7.8,"Bữa sáng, Wifi miễn phí",Đà Nẵng,11
+11,Valentine Luxury hotel - 31 Bui Vien Street,176365.0,7.8,"Bữa sáng, Vegetarian Bữa sáng",Đà Nẵng,12
+12,Yoko Airport Saigon Hotel,435358.0,7.9,"Bữa sáng, Wifi miễn phí",Đà Nẵng,13
+13,Liberty Hotel Saigon Parkview,1295503.0,7.8,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",Đà Nẵng,14
+14,ROSA ZEN Hotel Spa,483667.0,8.3,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,15
+15,Riverside Hotel Saigon,760685.0,7.7,"Bữa sáng, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,16
+16,22Land Hotel Saigon,1487419.0,9.2,"Bữa sáng, Bãi đậu xe, Wifi miễn phí",Đà Nẵng,17
+17,Saigon Hotel,1410625.0,8.4,"Bữa sáng, Wifi miễn phí, Phòng tập miễn phí",Đà Nẵng,18
+18,M Village Lý Tự Trọng,1031372.0,9.0,"Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,19
+19,Sky Gem Central Hotel,11410.0,8.3,"Bữa sáng, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,20
+20,"Vinpearl Landmark 81, Autograph Collection",46000.0,9.0,"Bữa sáng, Afternoon tea, Bãi đậu xe",Đà Nẵng,21
+21,BOBHOTEL - BÙI VIỆN,233081.0,5.7,"Nước uống chào đón, Wifi miễn phí",Đà Nẵng,22
+22,ZAZZ URBAN HO CHI MINH HOTEL,1354289.0,8.6,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,23
+23,Liberty Central Saigon Riverside Hotel,1843743.0,8.6,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,24
+24,Eden Star Saigon Hotel,1536882.0,8.4,"Bữa sáng, Free mini bar, Vào hồ bơi miễn phí",Đà Nẵng,25
+25,The Myst Dong Khoi,2626741.0,8.9,"Bữa sáng, Wifi miễn phí",Đà Nẵng,26
+26,Dong Kinh Hotel,314253.0,8.2,"Nước uống chào đón, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,27
+27,The Concept Hotel HCMC- District 1,956667.0,8.7,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,28
+28,Erato Boutique Hotel,395547.0,7.5,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,29
+29,Grandma Lu Saigon Hawaii - Pham Ngu Lao Street,102867.0,8.1,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,30
+30,Silverland Sil Hotel,1057099.0,8.2,"Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,31
+31,Fusion Suites Saigon,1990727.0,8.9,"Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,32
+32,CityHouse - City Oasis,891915.0,8.2,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,33
+33,VyDa Backpacker Hostel,104861.0,8.7,"Bãi đậu xe, Wifi miễn phí, Nhận phòng sớm",Đà Nẵng,34
+34,Cozrum Lux Hotel,580346.0,7.8,"Phòng tập miễn phí, Nước uống chào đón",Đà Nẵng,35
+35,The One Premium Hotel,440519.0,6.9,"Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,36
+36,Minh Tam Hotel & Spa 3/2,761905.0,8.0,"Bữa sáng, Nước uống chào đón, Bãi đậu xe, Wifi miễn phí",Đà Nẵng,37
+37,Lancaster Saigon Serviced Apartments Le Thanh Ton,1165545.0,8.1,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,38
+38,Leaf Signature Hotel - La Group,808857.0,8.5,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",Đà Nẵng,39
+39,Minh Tam Hotel and Spa,430222.0,7.6,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,40
+40,The Lumiere,341358.0,7.9,"Bữa sáng, Nước uống chào đón, Free mini bar",Đà Nẵng,41
+41,The Hammock Hotel Fine Arts Museum,1069036.0,9.1,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",Đà Nẵng,42
+42,HOTEL le JARDIN SECRET saigon,1409672.0,8.6,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,43
+43,THANH TAI HOTEL 1,311236.0,8.6,Wifi miễn phí,Đà Nẵng,44
+44,Adora Art Hotel,1288342.0,8.5,"Bữa sáng, Wifi miễn phí",Đà Nẵng,45
+45,Mecozy Apartel,783248.0,8.5,Wifi miễn phí,Đà Nẵng,46
+46,DAI NAM BOUTIQUE HOTEL,12119.0,8.3,"Nước uống chào đón, Bãi đậu xe, Nhận phòng nhanh",Đà Nẵng,47
+47,Cozrum Homes Ly Chinh Thang,420683.0,7.9,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,48
+48,Saigon Charm Hotel,288889.0,6.1,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,49
+49,Ngoi Sao Phuong Nam Hotel,25738.0,8.6,Wifi miễn phí,Đà Nẵng,50
+50,Planet Saigon Hotel,416109.0,8.7,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,51
+51,Sunflowers Hotel Airport,386255.0,7.4,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,52
+52,Lotte Hotel Saigon,268751.0,8.9,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,53
+53,HANZ Boutique Hotel,189037.0,7.3,"Wifi miễn phí, Nước uống chào đón",Đà Nẵng,54
+54,Au Lac Legend Hotel,1321466.0,8.8,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,55
+55,SAZI HOTEL - BUI THI XUAN,984856.0,7.8,"Bữa sáng, Wifi miễn phí, Bao gồm bữa tối",Đà Nẵng,56
+56,Hilton Saigon,41000.0,9.1,Wifi miễn phí,Đà Nẵng,57
+57,123 Apartment in Vinhomes Central Park - Landmark 81,1055556.0,8.3,"Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,58
+58,M Village Hoàng Văn Thụ,6908.0,9.3,"Phòng tập miễn phí, Nước uống chào đón",Đà Nẵng,59
+59,Hue My Hotel Saigon,932807.0,8.1,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,60
+60,NTA Serviced Apartments,1357335.0,9.0,"Bữa sáng, Bãi đậu xe, Wifi miễn phí",Đà Nẵng,61
+61,M Hotel Saigon,2768627.0,8.7,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,62
+62,Orchids Saigon Hotel,1687399.0,8.9,"Wifi cao cấp miễn phí, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,63
+63,Van Ha Hotel,329012.0,7.7,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",Đà Nẵng,64
+64,Tan Hoang Long Hotel,631499.0,8.5,"Nước uống chào đón, Bãi đậu xe, Khử trùng phòng",Đà Nẵng,65
+65,A&Em Art Hotel,1352696.0,7.8,"Bữa sáng, Wifi miễn phí",Đà Nẵng,66
+66,La Palma - Garden Saigon Hotel Phu My Hung,648148.0,9.0,"Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,67
+67,A&EM Corp - The Petit Hotel,598802.0,7.6,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,68
+68,Nu Hotel,328131.0,7.8,"Bữa sáng, Bãi đậu xe, Wifi miễn phí",Đà Nẵng,69
+69,The Bloom Pham Viet Chanh,899999.0,8.8,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",Đà Nẵng,70
+70,SKY STAR HOTEL,248664.0,8.5,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,71
+71,Cozrum Homes Yoga Corner,389655.0,8.0,Wifi miễn phí,Đà Nẵng,72
+72,Au Lac Charner Hotel,2246954.0,8.8,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,73
+73,GIC Apartment and Hotel,356007.0,7.0,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,74
+74,The Sophia Apartment - Thao Dien Central,725121.0,9.6,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,75
+75,Cozrum Homes - Cozytel Residence,321763.0,8.3,"Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,76
+76,M Village Đinh Công Tráng,6480.0,9.3,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",Đà Nẵng,77
+77,T78 Hotel,71876.0,8.0,"Bike rental, Wifi miễn phí",Đà Nẵng,78
+78,Bat Dat Hotel,1100959.0,7.1,"Quà miễn phí, Nhận phòng trễ, Wifi cao cấp miễn phí",Đà Nẵng,79
+79,Ahu Hotel & Apartment,287675.0,8.4,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,80
+80,Grandma Lu Saigon Hotel Centre,330059.0,8.7,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,81
+81,SILA Urban Living,1671497.0,8.8,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,82
+82,Somerset Ho Chi Minh City Serviced Residence,30400.0,8.6,"Bữa sáng, Nước uống chào đón, Free mini bar",Đà Nẵng,83
+83,A & Em Saigon Hotel,1617861.0,8.0,"Wifi miễn phí, Bãi đậu xe",Đà Nẵng,84
+84,COCHIN SANG HOTEL,121895.0,8.8,"Bữa sáng, Nước uống chào đón, Nhận phòng nhanh",Đà Nẵng,85
+85,Start House DORM Walk 5 Minutes to the Airport,1350.0,8.7,"Nước uống chào đón, Bãi đậu xe, Wifi miễn phí",Đà Nẵng,86
+86,Yaya Hotel,1716.0,7.3,Wifi miễn phí,Đà Nẵng,87
+87,Maison De Camille Boutique Hotel,1045921.0,8.7,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,88
+88,Yaya Hotel,1716.0,7.3,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,89
+89,Maison De Camille Boutique Hotel,1045921.0,8.7,Wifi miễn phí,Đà Nẵng,90
+90,Lá Phú Nhuận Hotel Airport,615509.0,7.8,"Nước uống chào đón, Bãi đậu xe, Wifi miễn phí",Đà Nẵng,91
+91,YÊN LIVING BÌNH THẠNH,595449.0,9.1,Bữa sáng,Đà Nẵng,92
+92,Bonita Signature The View,583333.0,8.4,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",Đà Nẵng,93
+93,Secret Garden Hotel,393574.0,8.9,Wifi miễn phí,Đà Nẵng,94
+94,Lucky Hotel Lien Phuong,231481.0,7.4,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,95
+95,Cozrum Homes - Autumn House,443627.0,8.5,Wifi miễn phí,Đà Nẵng,96
+96,Adora Hotel,970713.0,8.2,"Bữa sáng, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,97
+97,PARKROYAL Saigon,2175436.0,8.3,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,98
+98,Saigon E Central Hotel,279167.0,8.3,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,99
+99,Kim Long Hotel,496935.0,6.0,"Bữa sáng, Meeting Room, Bãi đậu xe",Đà Nẵng,100
+100,Paradise Cu Chi Hotel,399999.0,8.2,"Bữa sáng, Bãi đậu xe, Car rental",Đà Nẵng,101
+101,Cozrum Homes - Graceful Corner,399999.0,7.8,Bữa sáng,Đà Nẵng,102
+102,The Alley Saigon Hotel,610588.0,8.0,"Bữa sáng, Wifi miễn phí",Đà Nẵng,103
+103,Cozrum Homes - Kola Apartment,275926.0,7.8,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,104
+104,Toi's Travel Home Central,882124.0,8.7,"Bãi đậu xe, Wifi miễn phí, Nhận phòng nhanh",Đà Nẵng,105
+105,Nicecy Hotel - Bui Thi Xuan Street,343796.0,8.2,"Bữa sáng, Phòng tập miễn phí, Wifi miễn phí",Đà Nẵng,106
+106,Nguyen Thanh Hotel,291005.0,6.9,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,107
+107,Nhu Y Hotel,1578568.0,8.1,"Bãi đậu xe, Wifi miễn phí, Nhận phòng nhanh",Đà Nẵng,108
+108,CHERRY BOUTIQUE HOTEL,171724.0,8.7,Bãi đậu xe,Đà Nẵng,109
+109,Little Brick Saigon Hotel,335133.0,8.2,Bãi đậu xe,Đà Nẵng,110
+110,Sen Hotel Saigon,324074.0,7.0,Pool,Đà Nẵng,111
+111,CoCo Guesthouse,324074.0,7.4,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,112
+112,CoCo Guesthouse,4875.0,7.4,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,113
+113,CAN HO VINHOMES GRAND PARK QUAN 9,582468.0,9.3,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,114
+114,Song Anh 1 Hotel,58231.0,8.9,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,115
+115,Renaissance Riverside Hotel Saigon,40000.0,8.5,"Bữa sáng, Wifi miễn phí, Nước uống chào đón",Đà Nẵng,116
+116,Lam Sơn Hotel,355064.0,7.7,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,117
+117,UpTown Hotel,992137.0,8.2,"Bữa sáng, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,118
+118,An Phu Plaza Serviced Apartment,1634004.0,8.4,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,119
+119,EROS HOTEL,3250.0,8.2,"Phòng tập miễn phí, Nước uống chào đón",Đà Nẵng,120
+120,Infinity Edge Pool - Saigon Rivergate,759177.0,9.2,"Bữa sáng, Local Bữa sáng, Wifi miễn phí",Đà Nẵng,121
+121,Na Nue Hotel,395259.0,7.9,"Bữa sáng, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,122
+122,GOLDA HOTEL,589425.0,8.1,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,123
+123,H.A.O Boutique Hotel,583524.0,8.7,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,124
+124,Sai Gon Amigo Hotel,351658.0,8.4,"Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,125
+125,Somerset Chancellor Court Serviced Residence,25600.0,8.4,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,126
+126,THE JOYS HOSTEL,125611.0,8.6,"Nước uống chào đón, Bãi đậu xe, Nhận phòng nhanh",Đà Nẵng,127
+127,Ngan Ha Hotel,305556.0,7.5,Wifi miễn phí,Đà Nẵng,128
+128,La Cigale Hotel,392649.0,8.5,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,129
+129,Thanh Thu Hotel,793651.0,8.1,"Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,130
+130,Yen House,324074.0,7.9,"Bữa sáng, Bãi đậu xe, Wifi cao cấp miễn phí",Đà Nẵng,131
+131,Yen House,324074.0,7.9,"Bữa sáng, Nước uống chào đón, Wifi miễn phí",Đà Nẵng,132
+132,Khách Sạn Lộc Phát,29925.0,8.8,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,133
+133,"Millennium Spacious Aparts, Pool & Gym and CENTRAL Location",648148.0,7.9,Wifi miễn phí,Đà Nẵng,134
+134,MoMo Residence,583333.0,9.0,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,135
+135,Văn Giao Hotel,287439.0,6.9,"Bãi đậu xe, Limited housekeeping",Đà Nẵng,136
+136,Le Parc Saigon Hotel,4184961.0,8.6,"Bữa sáng, Nước uống chào đón, Bãi đậu xe, Wifi miễn phí",Đà Nẵng,137
+137,Montcalm Grand Hotel,678758.0,9.6,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",Đà Nẵng,138
+138,Yours Studio Tower,1021889.0,8.3,Wifi miễn phí,Đà Nẵng,139
+139,Skycure Serviced Apartments,825137.0,9.9,"Bữa sáng, Wifi miễn phí",Đà Nẵng,140
+140,Skymian Boutique Apartment,3150.0,9.1,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,141
+141,Khach San Hoang Ha,1410625.0,7.6,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,142
+142,SUNFLOWER CBQ HOTEL,434475.0,8.2,"Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,143
+143,Bonita THT Hotel,363757.0,7.6,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",Đà Nẵng,144
+144,Ngoc Linh Hotel,149912.0,7.9,Wifi miễn phí,Đà Nẵng,145
+145,Sao Mai 896 Hotel,881834.0,7.7,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",Đà Nẵng,146
+146,Bali Hotel,460758.0,7.9,"Bữa sáng, Wifi miễn phí, Nước uống chào đón, Bãi đậu xe",Đà Nẵng,147
+147,Song Anh 2 Hotel,742778.0,7.8,"Bãi đậu xe, Wifi cao cấp miễn phí",Đà Nẵng,148
+148,Simmi Apartment Phu My Hung,90351.0,8.2,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,149
+149,Panorama Star Beach Nha Trang,1208138.0,8.9,"Wifi miễn phí, Phòng tập miễn phí",Đà Nẵng,150
+150,Swandor Cam Ranh Resort-Ultra All Inclusive,452481.0,8.6,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,151
+151,Panorama Nha Trang by HLG,475693.0,8.1,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,152
+152,Virgo Hotel,494978.0,9.0,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,153
+153,Asteria Comodo Nha Trang Hotel,762306.0,8.8,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,154
+154,Regalia Nha Trang Hotel,353571.0,8.8,"Bữa sáng, Wifi miễn phí",Đà Nẵng,155
+155,Muong Thanh Luxury Khanh Hoa,1053757.0,9.1,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,156
+156,December Hotel,1372832.0,9.2,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,157
+157,Holi Panorama Nha Trang,491889.0,8.3,"Bữa sáng, Nước uống chào đón, Wifi miễn phí",Đà Nẵng,158
+158,Panorama Nha Trang Ocean View,555556.0,7.8,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,159
+159,Havana Nha Trang Hotel,1892839.0,9.0,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,160
+160,Diamond Bay Hotel,95771.0,8.7,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,161
+161,Ana Mandara Cam Ranh,3003615.0,8.8,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",Đà Nẵng,162
+162,Vinpearl Luxury Nha Trang,4418455.0,9.3,Wifi miễn phí,Đà Nẵng,163
+163,Anrizon Hotel Nha Trang,245157.0,8.7,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,164
+164,Asia Paradise Hotel Nha Trang,387599.0,7.8,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,165
+165,Crown Hotel Nha Trang,314154.0,8.5,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",Đà Nẵng,166
+166,Kymodo Panorama Apartment,55097.0,8.9,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,167
+167,Grand Gosia Hotel,792314.0,9.0,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,168
+168,Ventana Nha Trang Hotel,458727.0,9.0,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,169
+169,Minh Tuyet Luxury Hotel,361905.0,9.2,Wifi miễn phí,Đà Nẵng,170
+170,Handy Panorama Nha Trang Ocean View,548292.0,8.1,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,171
+171,Panorama Luxury Sea View Apartment Nha Trang,976139.0,8.5,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,172
+172,Annova Nha Trang Hotel,943522.0,8.8,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,173
+173,Nha Trang Horizon Hotel,849201.0,8.8,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,174
+174,Fusion Resort Cam Ranh - All Spa Inclusive,6004397.0,8.8,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,175
+175,Sochi Hotel,516598.0,8.5,"Bữa sáng, Nước uống chào đón, Trả phòng muộn",Đà Nẵng,176
+176,StarCity Nha Trang Hotel,906436.0,8.6,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,177
+177,Gosia Hotel,461139.0,8.7,"Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,178
+178,Maple Hotel & Apartment,575281.0,8.5,Wifi miễn phí,Đà Nẵng,179
+179,Highsea Panorama Nha Trang Apartments,508333.0,9.0,"Phòng tập miễn phí, Nước uống chào đón",Đà Nẵng,180
+180,khách sạn phố ngọc,146825.0,8.7,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,181
+181,GIS Hotel Nha Trang,173323.0,8.1,"Phòng tập miễn phí, Vào hồ bơi miễn phí",Đà Nẵng,182
+182,Lenid Nha Trang Hotel,355556.0,7.9,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,183
+183,Bonjour Nha Trang Hotel,286164.0,8.2,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,184
+184,The Costa Nha Trang Residences,1557603.0,8.6,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,185
+185,Art Nest Hotel Nha Trang,851779.0,8.9,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,186
+186,Agnes Nha Trang Hotel,288687.0,8.6,"Bữa sáng, Nước uống chào đón, Bãi đậu xe, Wifi miễn phí",Đà Nẵng,187
+187,Pearl Nha Trang Beach Apartment,595238.0,8.6,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",Đà Nẵng,188
+188,Rex Hotel and Apartment,246122.0,7.9,"Nước uống chào đón, Wifi miễn phí, Bãi đậu xe",Đà Nẵng,189
+189,Nami Nha Trang Hotel,207407.0,8.1,"Nước uống chào đón, Wifi miễn phí, Bãi đậu xe",Đà Nẵng,190
+190,Nha Trang Pearl Hotel,151515.0,7.7,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,191
+191,Crown Nguyen Hoang Hotel,545479.0,8.7,"Nước uống chào đón, Bãi đậu xe, Wifi miễn phí",Đà Nẵng,192
+192,Full House Hotel,311975.0,7.6,"Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,193
+193,Gold Coast Nha Trang Luxury Apartment - Ocean View,699999.0,9.2,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,194
+194,Santorini Villa Cam Ranh,839533.0,8.5,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,195
+195,Sun Kiss Hotel,357192.0,9.0,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,196
+196,Mystery Villas & Spa Cam Ranh,2682489.0,8.3,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,197
+197,La Sera Suites Nha Trang,449488.0,8.6,"Bãi đậu xe, Car rental, Giảm giá đồ ăn uống",Đà Nẵng,198
+198,Panorama Nha trang & Bữa sáng,648148.0,9.0,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,199
+199,Siren Flower Hotel,167116.0,8.1,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",Đà Nẵng,200
+200,FAMILY HOTEL & THE 1990s Rooftop,259259.0,8.5,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,201
+201,DB Hotel Nha Trang,399999.0,8.4,"Bữa sáng, Bãi đậu xe, Wifi cao cấp miễn phí",Đà Nẵng,202
+202,GIBSON HOTEL NHA TRANG,395833.0,9.4,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,203
+203,La Casa Hotel Nha Trang,445989.0,8.5,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,204
+204,Rembrandt Hotel Nha Trang,330316.0,7.6,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,205
+205,B475house,231481.0,9.1,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,206
+206,OYO 898 Phuong Thao Hotel,159633.0,7.4,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,207
+207,Benzen ruby 2,8603716.0,7.7,"Bữa sáng, Bãi đậu xe, Nhận phòng trễ",Đà Nẵng,208
+208,Vitamin Sea Nha Trang,220459.0,8.7,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,209
+209,Sunrise Ocean View Apartment,414353.0,8.3,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,210
+210,Nice Swan Hotel Nha Trang,279533.0,7.5,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,211
+211,Iridescent Clouds Hotel,455587.0,6.7,"Wifi miễn phí, Bãi đậu xe",Đà Nẵng,212
+212,Aladin Hotel,212587.0,8.0,Wifi miễn phí,Đà Nẵng,213
+213,The Alley Hostel,10582.0,9.1,"Bữa sáng, Vào hồ bơi miễn phí, Wifi miễn phí",Đà Nẵng,214
+214,Oasis Retreat - Muong Thanh Vien Trieu,559812.0,7.8,"Bãi đậu xe, Wifi miễn phí, Trả phòng muộn",Đà Nẵng,215
+215,Blue Pearl Hotel,314398.0,8.7,"Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,216
+216,BIDV Beach Hotel Nha Trang,199999.0,9.8,"Bữa sáng, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,217
+217,Thai Binh Cam Ranh Hotel,404762.0,8.2,"Phòng tập miễn phí, Bãi đậu xe",Đà Nẵng,218
+218,Aqua Seaview Hotel,366667.0,8.9,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,219
+219,Glory Hotel Nha Trang,27566.0,8.2,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,220
+220,Arena Seaview Cam Ranh Beach Resort Nha Trang Best Location Near The Airport,108642.0,8.1,"Bữa sáng, Bãi đậu xe, Nhận phòng sớm",Đà Nẵng,221
+221,KHÁCH SẠN SIKA,194004.0,7.8,Wifi miễn phí,Đà Nẵng,222
+222,Lee Charming Hotel Nha Trang,277778.0,9.8,Bữa sáng,Đà Nẵng,223
+223,Napoleon Nha Trang Hotel,381818.0,10.0,"Bữa sáng, Bãi đậu xe, Free sauna access",Đà Nẵng,224
+224,Moschino HT,257333.0,8.5,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,225
+225,Wild Beach Resort,661376.0,7.1,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,226
+226,Luxury villa trong Whyndham garden Cam Ranh,4564647.0,10.0,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,227
+227,Sunset Beach Resort & Spa,1020243.0,8.8,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,228
+228,Seashells Phu Quoc Hotel & Spa,1882833.0,9.0,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,229
+229,Mercury Phu Quoc Resort and Villas,1515631.0,8.4,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,230
+230,Valentina Resort & Spa Phu Quoc,648246.0,9.0,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",Đà Nẵng,231
+231,Andochine Villas Resort & Spa – All Villas with Private Pool,3733905.0,9.0,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",Đà Nẵng,232
+232,Venice Hotel Phu Quoc - Free Hon Thom Island Waterpark Cable Car & Sunset Town Tour,1281769.0,9.9,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,233
+233,Muong Thanh Luxury Phu Quoc Hotel,1106654.0,8.0,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",Đà Nẵng,234
+234,SOL By Melia Phu Quoc,1843975.0,8.5,"Bữa sáng, Bao gồm bữa tối, All Inclusive",Đà Nẵng,235
+235,Dusit Princess Moonrise Beach Resort,1962774.0,9.2,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",Đà Nẵng,236
+236,Coco Palm Beach Resort & Spa,1873674.0,8.5,"Bữa sáng, Nước uống chào đón",Đà Nẵng,237
+237,M Hotel Phu Quoc,1168336.0,8.9,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,238
+238,Sonaga Beach Resort & Villas Phu Quoc,902515.0,8.2,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,239
+239,Venus Hotel & Sky Bar Phu Quoc,271605.0,7.4,"Nước uống chào đón, Bãi đậu xe, Wifi miễn phí",Đà Nẵng,240
+240,HANZ Lagoon Sunset Boutique Hotel,419186.0,8.8,"Bữa sáng, Vào hồ bơi miễn phí, Bãi đậu xe",Đà Nẵng,241
+241,Leaf Hotel Phu Quoc,482856.0,9.4,"Nước uống chào đón, Vào hồ bơi miễn phí",Đà Nẵng,242
+242,Dendi Resort Phu Quoc,396384.0,8.2,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,243
+243,THE PIER PHU QUOC RESORT,479373.0,8.2,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,244
+244,ROSIE BALCONY HOTEL  PHU QUOC,1226925.0,8.9,"Bãi đậu xe, Khử trùng phòng",Đà Nẵng,245
+245,OYO 952 Linh Dan Bungalow,187144.0,6.8,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Đà Nẵng,246
+246,JM boutique-hotel,1075467.0,9.4,"Bữa sáng, Phòng tập miễn phí",Đà Nẵng,247
+247,Phu My Hung Bungalow,342831.0,9.1,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,248
+248,La Nube Residence,483503.0,8.6,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",Đà Nẵng,249
+249,Bamboo Cottages,854323.0,8.8,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",Đà Nẵng,250
+250,hai phuong tuyen,176367.0,8.6,Wifi miễn phí,Đà Nẵng,251
+251,Hoàng Hôn Beach House Phú Quốc,497328.0,7.9,"Wifi miễn phí, Bãi đậu xe, Nước uống chào đón",Đà Nẵng,252
+252,HANZ VeniceRiver Power MIA Grand World,510963.0,8.1,"Bãi đậu xe, Wifi miễn phí, Nhận phòng nhanh",Đà Nẵng,253
+253,Moc Lam Homestay,46891.0,9.0,"Wifi miễn phí, Nước uống chào đón",Đà Nẵng,254
+254,EMOLIA Coffee Tea & Mini Hotel,49185.0,9.6,"Bãi đậu xe, Wifi miễn phí",Đà Nẵng,255
+0,Cozrum Homes - Sonata Residence,453197.0,7.6,"Bữa sáng, Phòng tập miễn phí",TPHCM,256
+1,Victory Hotel Saigon,764878.0,7.7,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",TPHCM,257
+2,Happy Life Grand Hotel & Sky Bar,1090245.0,8.4,"Bữa sáng, Phòng tập miễn phí",TPHCM,258
+3,Cityhouse - Ariosa,1068847.0,8.9,"Bữa sáng, Nước uống chào đón, Trả phòng muộn",TPHCM,259
+4,Cochin Zen Hotel,915091.0,8.6,"Bữa sáng, Nhận phòng nhanh, Wifi miễn phí",TPHCM,260
+5,Akoya Saigon Central Hotel,943423.0,8.9,"Bữa sáng, Phòng tập miễn phí",TPHCM,261
+6,Khach san Muong Thanh Luxury Saigon Hotel,1690148.0,8.6,"Bữa sáng, Phòng tập miễn phí",TPHCM,262
+7,Nesta Hotel Saigon,1412382.0,8.3,"Bữa sáng, Nước uống chào đón, Nhận phòng nhanh",TPHCM,263
+8,Ramana Saigon Hotel,1023154.0,8.0,"Bữa sáng, Wifi miễn phí",TPHCM,264
+9,Golden Star Hotel - 60 Le Thanh Ton,604529.0,7.1,"Nước uống chào đón, Bãi đậu xe, Nhận phòng nhanh",TPHCM,265
+10,Bong Sen Hotel Saigon,860488.0,7.8,"Bữa sáng, Wifi miễn phí",TPHCM,266
+11,Valentine Luxury hotel - 31 Bui Vien Street,176365.0,7.8,"Bữa sáng, Vegetarian Bữa sáng",TPHCM,267
+12,Yoko Airport Saigon Hotel,435358.0,7.9,"Bữa sáng, Wifi miễn phí",TPHCM,268
+13,Liberty Hotel Saigon Parkview,1295503.0,7.8,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",TPHCM,269
+14,ROSA ZEN Hotel Spa,483667.0,8.3,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",TPHCM,270
+15,Riverside Hotel Saigon,760685.0,7.7,"Bữa sáng, Nhận phòng nhanh, Wifi miễn phí",TPHCM,271
+16,22Land Hotel Saigon,1487419.0,9.2,"Bữa sáng, Bãi đậu xe, Wifi miễn phí",TPHCM,272
+17,Saigon Hotel,1410625.0,8.4,"Bữa sáng, Wifi miễn phí, Phòng tập miễn phí",TPHCM,273
+18,M Village Lý Tự Trọng,1031372.0,9.0,"Nhận phòng nhanh, Wifi miễn phí",TPHCM,274
+19,Sky Gem Central Hotel,11410.0,8.3,"Bữa sáng, Nhận phòng nhanh, Wifi miễn phí",TPHCM,275
+20,"Vinpearl Landmark 81, Autograph Collection",46000.0,9.0,"Bữa sáng, Afternoon tea, Bãi đậu xe",TPHCM,276
+21,BOBHOTEL - BÙI VIỆN,233081.0,5.7,"Nước uống chào đón, Wifi miễn phí",TPHCM,277
+22,ZAZZ URBAN HO CHI MINH HOTEL,1354289.0,8.6,"Bữa sáng, Phòng tập miễn phí",TPHCM,278
+23,Liberty Central Saigon Riverside Hotel,1843743.0,8.6,"Bữa sáng, Phòng tập miễn phí",TPHCM,279
+24,Eden Star Saigon Hotel,1536882.0,8.4,"Bữa sáng, Free mini bar, Vào hồ bơi miễn phí",TPHCM,280
+25,The Myst Dong Khoi,2626741.0,8.9,"Bữa sáng, Wifi miễn phí",TPHCM,281
+26,Dong Kinh Hotel,314253.0,8.2,"Nước uống chào đón, Nhận phòng nhanh, Wifi miễn phí",TPHCM,282
+27,The Concept Hotel HCMC- District 1,956667.0,8.7,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",TPHCM,283
+28,Erato Boutique Hotel,395547.0,7.5,"Bữa sáng, Phòng tập miễn phí",TPHCM,284
+29,Grandma Lu Saigon Hawaii - Pham Ngu Lao Street,102867.0,8.1,"Bữa sáng, Phòng tập miễn phí",TPHCM,285
+30,Silverland Sil Hotel,1057099.0,8.2,"Nhận phòng nhanh, Wifi miễn phí",TPHCM,286
+31,Fusion Suites Saigon,1990727.0,8.9,"Nhận phòng nhanh, Wifi miễn phí",TPHCM,287
+32,CityHouse - City Oasis,891915.0,8.2,"Bãi đậu xe, Wifi miễn phí",TPHCM,288
+33,VyDa Backpacker Hostel,104861.0,8.7,"Bãi đậu xe, Wifi miễn phí, Nhận phòng sớm",TPHCM,289
+34,Cozrum Lux Hotel,580346.0,7.8,"Phòng tập miễn phí, Nước uống chào đón",TPHCM,290
+35,The One Premium Hotel,440519.0,6.9,"Nhận phòng nhanh, Wifi miễn phí",TPHCM,291
+36,Minh Tam Hotel & Spa 3/2,761905.0,8.0,"Bữa sáng, Nước uống chào đón, Bãi đậu xe, Wifi miễn phí",TPHCM,292
+37,Lancaster Saigon Serviced Apartments Le Thanh Ton,1165545.0,8.1,"Bữa sáng, Phòng tập miễn phí",TPHCM,293
+38,Leaf Signature Hotel - La Group,808857.0,8.5,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",TPHCM,294
+39,Minh Tam Hotel and Spa,430222.0,7.6,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",TPHCM,295
+40,The Lumiere,341358.0,7.9,"Bữa sáng, Nước uống chào đón, Free mini bar",TPHCM,296
+41,The Hammock Hotel Fine Arts Museum,1069036.0,9.1,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",TPHCM,297
+42,HOTEL le JARDIN SECRET saigon,1409672.0,8.6,"Bữa sáng, Phòng tập miễn phí",TPHCM,298
+43,THANH TAI HOTEL 1,311236.0,8.6,Wifi miễn phí,TPHCM,299
+44,Adora Art Hotel,1288342.0,8.5,"Bữa sáng, Wifi miễn phí",TPHCM,300
+45,Mecozy Apartel,783248.0,8.5,Wifi miễn phí,TPHCM,301
+46,DAI NAM BOUTIQUE HOTEL,12119.0,8.3,"Nước uống chào đón, Bãi đậu xe, Nhận phòng nhanh",TPHCM,302
+47,Cozrum Homes Ly Chinh Thang,420683.0,7.9,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",TPHCM,303
+48,Saigon Charm Hotel,288889.0,6.1,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",TPHCM,304
+49,Ngoi Sao Phuong Nam Hotel,25738.0,8.6,Wifi miễn phí,TPHCM,305
+50,Planet Saigon Hotel,416109.0,8.7,"Bữa sáng, Phòng tập miễn phí",TPHCM,306
+51,Sunflowers Hotel Airport,386255.0,7.4,"Bãi đậu xe, Wifi miễn phí",TPHCM,307
+52,Lotte Hotel Saigon,268751.0,8.9,"Bữa sáng, Phòng tập miễn phí",TPHCM,308
+53,HANZ Boutique Hotel,189037.0,7.3,"Wifi miễn phí, Nước uống chào đón",TPHCM,309
+54,Au Lac Legend Hotel,1321466.0,8.8,"Bữa sáng, Phòng tập miễn phí",TPHCM,310
+55,SAZI HOTEL - BUI THI XUAN,984856.0,7.8,"Bữa sáng, Wifi miễn phí, Bao gồm bữa tối",TPHCM,311
+56,Hilton Saigon,41000.0,9.1,Wifi miễn phí,TPHCM,312
+57,123 Apartment in Vinhomes Central Park - Landmark 81,1055556.0,8.3,"Nhận phòng nhanh, Wifi miễn phí",TPHCM,313
+58,M Village Hoàng Văn Thụ,6908.0,9.3,"Phòng tập miễn phí, Nước uống chào đón",TPHCM,314
+59,Hue My Hotel Saigon,932807.0,8.1,"Bữa sáng, Phòng tập miễn phí",TPHCM,315
+60,NTA Serviced Apartments,1357335.0,9.0,"Bữa sáng, Bãi đậu xe, Wifi miễn phí",TPHCM,316
+61,M Hotel Saigon,2768627.0,8.7,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",TPHCM,317
+62,Orchids Saigon Hotel,1687399.0,8.9,"Wifi cao cấp miễn phí, Nhận phòng nhanh, Wifi miễn phí",TPHCM,318
+63,Van Ha Hotel,329012.0,7.7,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",TPHCM,319
+64,Tan Hoang Long Hotel,631499.0,8.5,"Nước uống chào đón, Bãi đậu xe, Khử trùng phòng",TPHCM,320
+65,A&Em Art Hotel,1352696.0,7.8,"Bữa sáng, Wifi miễn phí",TPHCM,321
+66,La Palma - Garden Saigon Hotel Phu My Hung,648148.0,9.0,"Nhận phòng nhanh, Wifi miễn phí",TPHCM,322
+67,A&EM Corp - The Petit Hotel,598802.0,7.6,"Bữa sáng, Phòng tập miễn phí",TPHCM,323
+68,Nu Hotel,328131.0,7.8,"Bữa sáng, Bãi đậu xe, Wifi miễn phí",TPHCM,324
+69,The Bloom Pham Viet Chanh,899999.0,8.8,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",TPHCM,325
+70,SKY STAR HOTEL,248664.0,8.5,"Bữa sáng, Phòng tập miễn phí",TPHCM,326
+71,Cozrum Homes Yoga Corner,389655.0,8.0,Wifi miễn phí,TPHCM,327
+72,Au Lac Charner Hotel,2246954.0,8.8,"Bữa sáng, Phòng tập miễn phí",TPHCM,328
+73,GIC Apartment and Hotel,356007.0,7.0,"Bãi đậu xe, Wifi miễn phí",TPHCM,329
+74,The Sophia Apartment - Thao Dien Central,725121.0,9.6,"Bãi đậu xe, Wifi miễn phí",TPHCM,330
+75,Cozrum Homes - Cozytel Residence,321763.0,8.3,"Nhận phòng nhanh, Wifi miễn phí",TPHCM,331
+76,M Village Đinh Công Tráng,6480.0,9.3,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",TPHCM,332
+77,T78 Hotel,71876.0,8.0,"Bike rental, Wifi miễn phí",TPHCM,333
+78,Bat Dat Hotel,1100959.0,7.1,"Quà miễn phí, Nhận phòng trễ, Wifi cao cấp miễn phí",TPHCM,334
+79,Ahu Hotel & Apartment,287675.0,8.4,"Bữa sáng, Phòng tập miễn phí",TPHCM,335
+80,Grandma Lu Saigon Hotel Centre,330059.0,8.7,"Bữa sáng, Phòng tập miễn phí",TPHCM,336
+81,SILA Urban Living,1671497.0,8.8,"Bữa sáng, Phòng tập miễn phí",TPHCM,337
+82,Somerset Ho Chi Minh City Serviced Residence,30400.0,8.6,"Bữa sáng, Nước uống chào đón, Free mini bar",TPHCM,338
+83,A & Em Saigon Hotel,1617861.0,8.0,"Wifi miễn phí, Bãi đậu xe",TPHCM,339
+84,COCHIN SANG HOTEL,121895.0,8.8,"Bữa sáng, Nước uống chào đón, Nhận phòng nhanh",TPHCM,340
+85,Start House DORM Walk 5 Minutes to the Airport,1350.0,8.7,"Nước uống chào đón, Bãi đậu xe, Wifi miễn phí",TPHCM,341
+86,Yaya Hotel,1716.0,7.3,Wifi miễn phí,TPHCM,342
+87,Maison De Camille Boutique Hotel,1045921.0,8.7,"Bãi đậu xe, Wifi miễn phí",TPHCM,343
+88,Yaya Hotel,1716.0,7.3,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",TPHCM,344
+89,Maison De Camille Boutique Hotel,1045921.0,8.7,Wifi miễn phí,TPHCM,345
+90,Lá Phú Nhuận Hotel Airport,615509.0,7.8,"Nước uống chào đón, Bãi đậu xe, Wifi miễn phí",TPHCM,346
+91,YÊN LIVING BÌNH THẠNH,595449.0,9.1,Bữa sáng,TPHCM,347
+92,Bonita Signature The View,583333.0,8.4,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",TPHCM,348
+93,Secret Garden Hotel,393574.0,8.9,Wifi miễn phí,TPHCM,349
+94,Lucky Hotel Lien Phuong,231481.0,7.4,"Bãi đậu xe, Wifi miễn phí",TPHCM,350
+95,Cozrum Homes - Autumn House,443627.0,8.5,Wifi miễn phí,TPHCM,351
+96,Adora Hotel,970713.0,8.2,"Bữa sáng, Nhận phòng nhanh, Wifi miễn phí",TPHCM,352
+97,PARKROYAL Saigon,2175436.0,8.3,"Bữa sáng, Phòng tập miễn phí",TPHCM,353
+98,Saigon E Central Hotel,279167.0,8.3,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",TPHCM,354
+99,Kim Long Hotel,496935.0,6.0,"Bữa sáng, Meeting Room, Bãi đậu xe",TPHCM,355
+100,Paradise Cu Chi Hotel,399999.0,8.2,"Bữa sáng, Bãi đậu xe, Car rental",TPHCM,356
+101,Cozrum Homes - Graceful Corner,399999.0,7.8,Bữa sáng,TPHCM,357
+102,The Alley Saigon Hotel,610588.0,8.0,"Bữa sáng, Wifi miễn phí",TPHCM,358
+103,Cozrum Homes - Kola Apartment,275926.0,7.8,"Bãi đậu xe, Wifi miễn phí",TPHCM,359
+104,Toi's Travel Home Central,882124.0,8.7,"Bãi đậu xe, Wifi miễn phí, Nhận phòng nhanh",TPHCM,360
+105,Nicecy Hotel - Bui Thi Xuan Street,343796.0,8.2,"Bữa sáng, Phòng tập miễn phí, Wifi miễn phí",TPHCM,361
+106,Nguyen Thanh Hotel,291005.0,6.9,"Bãi đậu xe, Wifi miễn phí",TPHCM,362
+107,Nhu Y Hotel,1578568.0,8.1,"Bãi đậu xe, Wifi miễn phí, Nhận phòng nhanh",TPHCM,363
+108,CHERRY BOUTIQUE HOTEL,171724.0,8.7,Bãi đậu xe,TPHCM,364
+109,Little Brick Saigon Hotel,335133.0,8.2,Bãi đậu xe,TPHCM,365
+110,Sen Hotel Saigon,324074.0,7.0,Pool,TPHCM,366
+111,CoCo Guesthouse,324074.0,7.4,"Bãi đậu xe, Wifi miễn phí",TPHCM,367
+112,CoCo Guesthouse,4875.0,7.4,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",TPHCM,368
+113,CAN HO VINHOMES GRAND PARK QUAN 9,582468.0,9.3,"Bãi đậu xe, Wifi miễn phí",TPHCM,369
+114,Song Anh 1 Hotel,58231.0,8.9,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",TPHCM,370
+115,Renaissance Riverside Hotel Saigon,40000.0,8.5,"Bữa sáng, Wifi miễn phí, Nước uống chào đón",TPHCM,371
+116,Lam Sơn Hotel,355064.0,7.7,"Bãi đậu xe, Wifi miễn phí",TPHCM,372
+117,UpTown Hotel,992137.0,8.2,"Bữa sáng, Nhận phòng nhanh, Wifi miễn phí",TPHCM,373
+118,An Phu Plaza Serviced Apartment,1634004.0,8.4,"Bãi đậu xe, Wifi miễn phí",TPHCM,374
+119,EROS HOTEL,3250.0,8.2,"Phòng tập miễn phí, Nước uống chào đón",TPHCM,375
+120,Infinity Edge Pool - Saigon Rivergate,759177.0,9.2,"Bữa sáng, Local Bữa sáng, Wifi miễn phí",TPHCM,376
+121,Na Nue Hotel,395259.0,7.9,"Bữa sáng, Nhận phòng nhanh, Wifi miễn phí",TPHCM,377
+122,GOLDA HOTEL,589425.0,8.1,"Bãi đậu xe, Wifi miễn phí",TPHCM,378
+123,H.A.O Boutique Hotel,583524.0,8.7,"Bữa sáng, Phòng tập miễn phí",TPHCM,379
+124,Sai Gon Amigo Hotel,351658.0,8.4,"Nhận phòng nhanh, Wifi miễn phí",TPHCM,380
+125,Somerset Chancellor Court Serviced Residence,25600.0,8.4,"Bãi đậu xe, Wifi miễn phí",TPHCM,381
+126,THE JOYS HOSTEL,125611.0,8.6,"Nước uống chào đón, Bãi đậu xe, Nhận phòng nhanh",TPHCM,382
+127,Ngan Ha Hotel,305556.0,7.5,Wifi miễn phí,TPHCM,383
+128,La Cigale Hotel,392649.0,8.5,"Bãi đậu xe, Wifi miễn phí",TPHCM,384
+129,Thanh Thu Hotel,793651.0,8.1,"Nhận phòng nhanh, Wifi miễn phí",TPHCM,385
+130,Yen House,324074.0,7.9,"Bữa sáng, Bãi đậu xe, Wifi cao cấp miễn phí",TPHCM,386
+131,Yen House,324074.0,7.9,"Bữa sáng, Nước uống chào đón, Wifi miễn phí",TPHCM,387
+132,Khách Sạn Lộc Phát,29925.0,8.8,"Bãi đậu xe, Wifi miễn phí",TPHCM,388
+133,"Millennium Spacious Aparts, Pool & Gym and CENTRAL Location",648148.0,7.9,Wifi miễn phí,TPHCM,389
+134,MoMo Residence,583333.0,9.0,"Bãi đậu xe, Wifi miễn phí",TPHCM,390
+135,Văn Giao Hotel,287439.0,6.9,"Bãi đậu xe, Limited housekeeping",TPHCM,391
+136,Le Parc Saigon Hotel,4184961.0,8.6,"Bữa sáng, Nước uống chào đón, Bãi đậu xe, Wifi miễn phí",TPHCM,392
+137,Montcalm Grand Hotel,678758.0,9.6,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",TPHCM,393
+138,Yours Studio Tower,1021889.0,8.3,Wifi miễn phí,TPHCM,394
+139,Skycure Serviced Apartments,825137.0,9.9,"Bữa sáng, Wifi miễn phí",TPHCM,395
+140,Skymian Boutique Apartment,3150.0,9.1,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",TPHCM,396
+141,Khach San Hoang Ha,1410625.0,7.6,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",TPHCM,397
+142,SUNFLOWER CBQ HOTEL,434475.0,8.2,"Nhận phòng nhanh, Wifi miễn phí",TPHCM,398
+143,Bonita THT Hotel,363757.0,7.6,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",TPHCM,399
+144,Ngoc Linh Hotel,149912.0,7.9,Wifi miễn phí,TPHCM,400
+145,Sao Mai 896 Hotel,881834.0,7.7,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",TPHCM,401
+146,Bali Hotel,460758.0,7.9,"Bữa sáng, Wifi miễn phí, Nước uống chào đón, Bãi đậu xe",TPHCM,402
+147,Song Anh 2 Hotel,742778.0,7.8,"Bãi đậu xe, Wifi cao cấp miễn phí",TPHCM,403
+148,Simmi Apartment Phu My Hung,90351.0,8.2,"Bãi đậu xe, Wifi miễn phí",TPHCM,404
+149,Panorama Star Beach Nha Trang,1208138.0,8.9,"Wifi miễn phí, Phòng tập miễn phí",Nha Trang,405
+150,Swandor Cam Ranh Resort-Ultra All Inclusive,452481.0,8.6,"Bữa sáng, Phòng tập miễn phí",Nha Trang,406
+151,Panorama Nha Trang by HLG,475693.0,8.1,"Bữa sáng, Phòng tập miễn phí",Nha Trang,407
+152,Virgo Hotel,494978.0,9.0,"Bữa sáng, Phòng tập miễn phí",Nha Trang,408
+153,Asteria Comodo Nha Trang Hotel,762306.0,8.8,"Bữa sáng, Phòng tập miễn phí",Nha Trang,409
+154,Regalia Nha Trang Hotel,353571.0,8.8,"Bữa sáng, Wifi miễn phí",Nha Trang,410
+155,Muong Thanh Luxury Khanh Hoa,1053757.0,9.1,"Bữa sáng, Phòng tập miễn phí",Nha Trang,411
+156,December Hotel,1372832.0,9.2,"Bữa sáng, Phòng tập miễn phí",Nha Trang,412
+157,Holi Panorama Nha Trang,491889.0,8.3,"Bữa sáng, Nước uống chào đón, Wifi miễn phí",Nha Trang,413
+158,Panorama Nha Trang Ocean View,555556.0,7.8,"Bữa sáng, Phòng tập miễn phí",Nha Trang,414
+159,Havana Nha Trang Hotel,1892839.0,9.0,"Bữa sáng, Phòng tập miễn phí",Nha Trang,415
+160,Diamond Bay Hotel,95771.0,8.7,"Bữa sáng, Phòng tập miễn phí",Nha Trang,416
+161,Ana Mandara Cam Ranh,3003615.0,8.8,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",Nha Trang,417
+162,Vinpearl Luxury Nha Trang,4418455.0,9.3,Wifi miễn phí,Nha Trang,418
+163,Anrizon Hotel Nha Trang,245157.0,8.7,"Bữa sáng, Phòng tập miễn phí",Nha Trang,419
+164,Asia Paradise Hotel Nha Trang,387599.0,7.8,"Bữa sáng, Phòng tập miễn phí",Nha Trang,420
+165,Crown Hotel Nha Trang,314154.0,8.5,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",Nha Trang,421
+166,Kymodo Panorama Apartment,55097.0,8.9,"Bữa sáng, Phòng tập miễn phí",Nha Trang,422
+167,Grand Gosia Hotel,792314.0,9.0,"Bữa sáng, Phòng tập miễn phí",Nha Trang,423
+168,Ventana Nha Trang Hotel,458727.0,9.0,"Bữa sáng, Phòng tập miễn phí",Nha Trang,424
+169,Minh Tuyet Luxury Hotel,361905.0,9.2,Wifi miễn phí,Nha Trang,425
+170,Handy Panorama Nha Trang Ocean View,548292.0,8.1,"Bữa sáng, Phòng tập miễn phí",Nha Trang,426
+171,Panorama Luxury Sea View Apartment Nha Trang,976139.0,8.5,"Bữa sáng, Phòng tập miễn phí",Nha Trang,427
+172,Annova Nha Trang Hotel,943522.0,8.8,"Bữa sáng, Phòng tập miễn phí",Nha Trang,428
+173,Nha Trang Horizon Hotel,849201.0,8.8,"Bữa sáng, Phòng tập miễn phí",Nha Trang,429
+174,Fusion Resort Cam Ranh - All Spa Inclusive,6004397.0,8.8,"Bữa sáng, Phòng tập miễn phí",Nha Trang,430
+175,Sochi Hotel,516598.0,8.5,"Bữa sáng, Nước uống chào đón, Trả phòng muộn",Nha Trang,431
+176,StarCity Nha Trang Hotel,906436.0,8.6,"Bữa sáng, Phòng tập miễn phí",Nha Trang,432
+177,Gosia Hotel,461139.0,8.7,"Nhận phòng nhanh, Wifi miễn phí",Nha Trang,433
+178,Maple Hotel & Apartment,575281.0,8.5,Wifi miễn phí,Nha Trang,434
+179,Highsea Panorama Nha Trang Apartments,508333.0,9.0,"Phòng tập miễn phí, Nước uống chào đón",Nha Trang,435
+180,khách sạn phố ngọc,146825.0,8.7,"Bữa sáng, Phòng tập miễn phí",Nha Trang,436
+181,GIS Hotel Nha Trang,173323.0,8.1,"Phòng tập miễn phí, Vào hồ bơi miễn phí",Nha Trang,437
+182,Lenid Nha Trang Hotel,355556.0,7.9,"Bữa sáng, Phòng tập miễn phí",Nha Trang,438
+183,Bonjour Nha Trang Hotel,286164.0,8.2,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Nha Trang,439
+184,The Costa Nha Trang Residences,1557603.0,8.6,"Bãi đậu xe, Wifi miễn phí",Nha Trang,440
+185,Art Nest Hotel Nha Trang,851779.0,8.9,"Bữa sáng, Phòng tập miễn phí",Nha Trang,441
+186,Agnes Nha Trang Hotel,288687.0,8.6,"Bữa sáng, Nước uống chào đón, Bãi đậu xe, Wifi miễn phí",Nha Trang,442
+187,Pearl Nha Trang Beach Apartment,595238.0,8.6,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",Nha Trang,443
+188,Rex Hotel and Apartment,246122.0,7.9,"Nước uống chào đón, Wifi miễn phí, Bãi đậu xe",Nha Trang,444
+189,Nami Nha Trang Hotel,207407.0,8.1,"Nước uống chào đón, Wifi miễn phí, Bãi đậu xe",Nha Trang,445
+190,Nha Trang Pearl Hotel,151515.0,7.7,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Nha Trang,446
+191,Crown Nguyen Hoang Hotel,545479.0,8.7,"Nước uống chào đón, Bãi đậu xe, Wifi miễn phí",Nha Trang,447
+192,Full House Hotel,311975.0,7.6,"Nhận phòng nhanh, Wifi miễn phí",Nha Trang,448
+193,Gold Coast Nha Trang Luxury Apartment - Ocean View,699999.0,9.2,"Bãi đậu xe, Wifi miễn phí",Nha Trang,449
+194,Santorini Villa Cam Ranh,839533.0,8.5,"Bữa sáng, Phòng tập miễn phí",Nha Trang,450
+195,Sun Kiss Hotel,357192.0,9.0,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Nha Trang,451
+196,Mystery Villas & Spa Cam Ranh,2682489.0,8.3,"Bữa sáng, Phòng tập miễn phí",Nha Trang,452
+197,La Sera Suites Nha Trang,449488.0,8.6,"Bãi đậu xe, Car rental, Giảm giá đồ ăn uống",Nha Trang,453
+198,Panorama Nha trang & Bữa sáng,648148.0,9.0,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Nha Trang,454
+199,Siren Flower Hotel,167116.0,8.1,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",Nha Trang,455
+200,FAMILY HOTEL & THE 1990s Rooftop,259259.0,8.5,"Bữa sáng, Phòng tập miễn phí",Nha Trang,456
+201,DB Hotel Nha Trang,399999.0,8.4,"Bữa sáng, Bãi đậu xe, Wifi cao cấp miễn phí",Nha Trang,457
+202,GIBSON HOTEL NHA TRANG,395833.0,9.4,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Nha Trang,458
+203,La Casa Hotel Nha Trang,445989.0,8.5,"Bãi đậu xe, Wifi miễn phí",Nha Trang,459
+204,Rembrandt Hotel Nha Trang,330316.0,7.6,"Bãi đậu xe, Wifi miễn phí",Nha Trang,460
+205,B475house,231481.0,9.1,"Bãi đậu xe, Wifi miễn phí",Nha Trang,461
+206,OYO 898 Phuong Thao Hotel,159633.0,7.4,"Bữa sáng, Phòng tập miễn phí",Nha Trang,462
+207,Benzen ruby 2,8603716.0,7.7,"Bữa sáng, Bãi đậu xe, Nhận phòng trễ",Nha Trang,463
+208,Vitamin Sea Nha Trang,220459.0,8.7,"Bãi đậu xe, Wifi miễn phí",Nha Trang,464
+209,Sunrise Ocean View Apartment,414353.0,8.3,"Bãi đậu xe, Wifi miễn phí",Nha Trang,465
+210,Nice Swan Hotel Nha Trang,279533.0,7.5,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Nha Trang,466
+211,Iridescent Clouds Hotel,455587.0,6.7,"Wifi miễn phí, Bãi đậu xe",Nha Trang,467
+212,Aladin Hotel,212587.0,8.0,Wifi miễn phí,Nha Trang,468
+213,The Alley Hostel,10582.0,9.1,"Bữa sáng, Vào hồ bơi miễn phí, Wifi miễn phí",Nha Trang,469
+214,Oasis Retreat - Muong Thanh Vien Trieu,559812.0,7.8,"Bãi đậu xe, Wifi miễn phí, Trả phòng muộn",Nha Trang,470
+215,Blue Pearl Hotel,314398.0,8.7,"Nhận phòng nhanh, Wifi miễn phí",Nha Trang,471
+216,BIDV Beach Hotel Nha Trang,199999.0,9.8,"Bữa sáng, Nhận phòng nhanh, Wifi miễn phí",Nha Trang,472
+217,Thai Binh Cam Ranh Hotel,404762.0,8.2,"Phòng tập miễn phí, Bãi đậu xe",Nha Trang,473
+218,Aqua Seaview Hotel,366667.0,8.9,"Bãi đậu xe, Wifi miễn phí",Nha Trang,474
+219,Glory Hotel Nha Trang,27566.0,8.2,"Bãi đậu xe, Wifi miễn phí",Nha Trang,475
+220,Arena Seaview Cam Ranh Beach Resort Nha Trang Best Location Near The Airport,108642.0,8.1,"Bữa sáng, Bãi đậu xe, Nhận phòng sớm",Nha Trang,476
+221,KHÁCH SẠN SIKA,194004.0,7.8,Wifi miễn phí,Nha Trang,477
+222,Lee Charming Hotel Nha Trang,277778.0,9.8,Bữa sáng,Nha Trang,478
+223,Napoleon Nha Trang Hotel,381818.0,10.0,"Bữa sáng, Bãi đậu xe, Free sauna access",Nha Trang,479
+224,Moschino HT,257333.0,8.5,"Bãi đậu xe, Wifi miễn phí",Nha Trang,480
+225,Wild Beach Resort,661376.0,7.1,"Bãi đậu xe, Wifi miễn phí",Nha Trang,481
+226,Luxury villa trong Whyndham garden Cam Ranh,4564647.0,10.0,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Nha Trang,482
+227,Sunset Beach Resort & Spa,1020243.0,8.8,"Bữa sáng, Phòng tập miễn phí",Phú Quốc,483
+228,Seashells Phu Quoc Hotel & Spa,1882833.0,9.0,"Bữa sáng, Phòng tập miễn phí",Phú Quốc,484
+229,Mercury Phu Quoc Resort and Villas,1515631.0,8.4,"Bữa sáng, Phòng tập miễn phí",Phú Quốc,485
+230,Valentina Resort & Spa Phu Quoc,648246.0,9.0,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",Phú Quốc,486
+231,Andochine Villas Resort & Spa – All Villas with Private Pool,3733905.0,9.0,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",Phú Quốc,487
+232,Venice Hotel Phu Quoc - Free Hon Thom Island Waterpark Cable Car & Sunset Town Tour,1281769.0,9.9,"Bữa sáng, Phòng tập miễn phí",Phú Quốc,488
+233,Muong Thanh Luxury Phu Quoc Hotel,1106654.0,8.0,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",Phú Quốc,489
+234,SOL By Melia Phu Quoc,1843975.0,8.5,"Bữa sáng, Bao gồm bữa tối, All Inclusive",Phú Quốc,490
+235,Dusit Princess Moonrise Beach Resort,1962774.0,9.2,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",Phú Quốc,491
+236,Coco Palm Beach Resort & Spa,1873674.0,8.5,"Bữa sáng, Nước uống chào đón",Phú Quốc,492
+237,M Hotel Phu Quoc,1168336.0,8.9,"Bữa sáng, Phòng tập miễn phí",Phú Quốc,493
+238,Sonaga Beach Resort & Villas Phu Quoc,902515.0,8.2,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Phú Quốc,494
+239,Venus Hotel & Sky Bar Phu Quoc,271605.0,7.4,"Nước uống chào đón, Bãi đậu xe, Wifi miễn phí",Phú Quốc,495
+240,HANZ Lagoon Sunset Boutique Hotel,419186.0,8.8,"Bữa sáng, Vào hồ bơi miễn phí, Bãi đậu xe",Phú Quốc,496
+241,Leaf Hotel Phu Quoc,482856.0,9.4,"Nước uống chào đón, Vào hồ bơi miễn phí",Phú Quốc,497
+242,Dendi Resort Phu Quoc,396384.0,8.2,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Phú Quốc,498
+243,THE PIER PHU QUOC RESORT,479373.0,8.2,"Bữa sáng, Phòng tập miễn phí",Phú Quốc,499
+244,ROSIE BALCONY HOTEL  PHU QUOC,1226925.0,8.9,"Bãi đậu xe, Khử trùng phòng",Phú Quốc,500
+245,OYO 952 Linh Dan Bungalow,187144.0,6.8,"Bãi đậu xe, Nhận phòng nhanh, Wifi miễn phí",Phú Quốc,501
+246,JM boutique-hotel,1075467.0,9.4,"Bữa sáng, Phòng tập miễn phí",Phú Quốc,502
+247,Phu My Hung Bungalow,342831.0,9.1,"Bãi đậu xe, Wifi miễn phí",Phú Quốc,503
+248,La Nube Residence,483503.0,8.6,"Bữa sáng, Nước uống chào đón, Bãi đậu xe",Phú Quốc,504
+249,Bamboo Cottages,854323.0,8.8,"Bữa sáng, Bãi đậu xe, Nhận phòng nhanh",Phú Quốc,505
+250,hai phuong tuyen,176367.0,8.6,Wifi miễn phí,Phú Quốc,506
+251,Hoàng Hôn Beach House Phú Quốc,497328.0,7.9,"Wifi miễn phí, Bãi đậu xe, Nước uống chào đón",Phú Quốc,507
+252,HANZ VeniceRiver Power MIA Grand World,510963.0,8.1,"Bãi đậu xe, Wifi miễn phí, Nhận phòng nhanh",Phú Quốc,508
+253,Moc Lam Homestay,46891.0,9.0,"Wifi miễn phí, Nước uống chào đón",Phú Quốc,509
+254,EMOLIA Coffee Tea & Mini Hotel,49185.0,9.6,"Bãi đậu xe, Wifi miễn phí",Phú Quốc,510
